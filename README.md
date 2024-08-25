@@ -4,7 +4,6 @@
 
 
 <div align="center">
-  <img width="29%" height="200px" alt="coding-time" src="code.gif">  
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoSartorii&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Sartori github stats" /> 
   <img width="31%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSartorii&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
